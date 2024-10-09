@@ -1,6 +1,3 @@
-
-Original file line number	Diff line number	Diff line change
-@@ -1,78 +1,89 @@
 from bs4 import BeautifulSoup
 import requests
 import pprint
